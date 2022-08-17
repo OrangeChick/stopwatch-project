@@ -1,0 +1,19 @@
+.title {
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+  font-weight: bolder;
+}
+
+.timer {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 80px;
+  font-weight: 500;
+}
+
+.play-button {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
