@@ -1,3 +1,6 @@
+body {
+  background-color: lightgrey;
+}
 .title {
   display: flex;
   justify-content: center;
@@ -7,7 +10,8 @@
 
 .timer {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 50px;
   font-size: 80px;
   font-weight: 500;
 }
@@ -24,4 +28,5 @@
   height: 100px;
   border-radius: 50px;
   font-size: medium;
+  background-color: beige;
 }
